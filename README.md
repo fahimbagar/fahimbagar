@@ -24,7 +24,7 @@
 	<a href="https://stackoverflow.com/users/6118551">
 		<img 
 			alt="followers" 
-			title="Follow me on Github" 
+			title="Follow me on StackOverflow" 
 			src="https://img.shields.io/stackexchange/stackoverflow/r/6118551?color=%23E05D44&label=REPUTATION&logo=stackoverflow&style=for-the-badge&labelColor=CE4630&logoColor=white" />
     </a>
 </p>
@@ -33,7 +33,7 @@
 
 <!-- Technology -->
 <h2 align="center" id="fahimbagar">Captivated Tech Stack</h2>
-<h4 align="center">but not limited to</h4>
+<div align="center"><em>but not limited to</em></div>
 <br>
 <table align="center">
 	<!-- 1st Row -->
@@ -42,16 +42,35 @@
 			<a href="#fahimbagar" >
 				<img src="https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif" width="60" height="60" alt="Golang" />
 			</a>
-			<br>Golang
+		</td>
+		<td align="center">
+			<a href="#fahimbagar" >
+				<img src="https://miro.medium.com/max/1200/1*lb8EwLB3k4xYKss9DMljXw.gif" width="64" height="100" alt="'Kotlin', 'Java'" />
+			</a>
+		</td>
+		<td align="center">
+			<a href="#fahimbagar" >
+				<img src="https://alphaville.github.io/optimization-engine/img/docker.gif" width="64" height="100" alt="Docker" />
+			</a>
+		</td>
+		<td align="center">
+			<a href="#fahimbagar" >
+				<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--gXzLOZI6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bsbe23oz7oo3k0uwh2t8.png" width="64" height="40" alt="Terraform" />
+			</a>
 		</td>
 	</tr>
+    <tr>
+        <td>Golang</td>
+        <td>Kotlin & Java</td>
+        <td>Docker</td>
+        <td>Terraform</td>
+    </tr>
 </table>
 
 <hr>
 
 <!-- Stats -->
-<h2 align="center">Stats</h2>
-<h3 align="center">Contribution & Performance</h3>
+<h2 align="center">Contribution & Performance</h2>
 <br>
 <p align=center>
   <div align=center>
