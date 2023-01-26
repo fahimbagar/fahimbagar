@@ -3,9 +3,7 @@
     Need contributor for any FOSS project? Please ping me!!!
     <br />
     <br />
-	<img 
-		src="https://media.giphy.com/media/d4zHnLjdy48Cc/giphy.gif"
-        width="200">
+	<img src="https://media.githubusercontent.com/media/fahimbagar/fahimbagar/main/img/01-challenge-accepted.gif">
 </h1>
 
 <br>
@@ -43,22 +41,22 @@
 	<tr>
 		<td align="center">
 			<a href="#fahimbagar" >
-				<img src="https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif" width="60" height="60" alt="Golang" />
+				<img src="https://media.githubusercontent.com/media/fahimbagar/fahimbagar/main/img/02-golang.gif" alt="Golang" />
 			</a>
 		</td>
 		<td align="center">
 			<a href="#fahimbagar" >
-				<img src="https://miro.medium.com/max/1200/1*lb8EwLB3k4xYKss9DMljXw.gif" width="64" height="100" alt="'Kotlin', 'Java'" />
+				<img src="https://media.githubusercontent.com/media/fahimbagar/fahimbagar/main/img/03-kotlin-java.gif" alt="'Kotlin', 'Java'" />
 			</a>
 		</td>
 		<td align="center">
 			<a href="#fahimbagar" >
-				<img src="https://alphaville.github.io/optimization-engine/img/docker.gif" width="64" height="100" alt="Docker" />
+				<img src="https://media.githubusercontent.com/media/fahimbagar/fahimbagar/main/img/04-docker.gif" alt="Docker" />
 			</a>
 		</td>
 		<td align="center">
 			<a href="#fahimbagar" >
-				<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--gXzLOZI6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bsbe23oz7oo3k0uwh2t8.png" width="64" height="40" alt="Terraform" />
+				<img src="https://media.githubusercontent.com/media/fahimbagar/fahimbagar/main/img/05-terraform.png" alt="Terraform" />
 			</a>
 		</td>
 	</tr>
