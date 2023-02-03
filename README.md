@@ -21,13 +21,20 @@
 			title="Follow me on Github" 
 			src="https://img.shields.io/github/followers/fahimbagar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
 	</a>
+	<!-- LinkedIn Stats -->
+	<a href="https://www.linkedin.com/in/fahimbagar/">
+		<img 
+			alt="followers" 
+			title="Follow me on LinkedIn" 
+			src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+	</a>
 	<!-- Stackoverflow Stats -->
 	<a href="https://stackoverflow.com/users/6118551">
 		<img 
 			alt="followers" 
 			title="Follow me on StackOverflow" 
 			src="https://img.shields.io/stackexchange/stackoverflow/r/6118551?color=%23E05D44&label=REPUTATION&logo=stackoverflow&style=for-the-badge&labelColor=CE4630&logoColor=white" />
-    </a>
+	</a>
 </p>
 
 <hr>
