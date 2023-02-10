@@ -1,9 +1,7 @@
 <!-- Header -->
 <h1 align="center">
-    Need contributor for any FOSS project? Please ping me!!!
     <br />
-    <br />
-	<img src="https://media.githubusercontent.com/media/fahimbagar/fahimbagar/main/img/01-challenge-accepted.gif">
+    <img src="https://media.githubusercontent.com/media/fahimbagar/fahimbagar/main/img/01-challenge-accepted.gif">
 </h1>
 
 <br>
